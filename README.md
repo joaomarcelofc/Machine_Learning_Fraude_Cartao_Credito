@@ -17,4 +17,5 @@ Outro ponto importante é que as etapas da documentação do nosso trabalho busc
 Portanto este projeto é uma oportunidade incrível para aprender sobre aprendizado de máquina e aplicá-lo em um problema real e importante. Se você é iniciante em aprendizado de máquina ou já tem experiência, esperamos que você encontre neste projeto novos insights e ideias para aplicar em suas próprias análises.
 
 
-Boa leitura e bons estudos!
+
+Clique [aqui](https://github.com/joaomarcelofc/Machine_Learning_Fraude_Cartao_Credito/blob/main/Projeto_Deteccao_Fraudes_Cartao_de_Credito_JM.ipynb) para ter acesso e bons estudos!
