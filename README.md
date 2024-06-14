@@ -1,6 +1,4 @@
-# Machine_Learning_Fraude_Cartao_Credito
-
-Bem-vindo ao nosso projeto de Detecção de Fraude em Cartões de Crédito com Aprendizado de Máquina!
+# Detecção de Fraude em Cartão de Crédito com Machine Learning
 
 Nos dias de hoje, a segurança financeira é mais importante do que nunca. Infelizmente, a fraude em cartões de crédito é uma ameaça cada vez mais frequente, que afeta tanto consumidores quanto instituições financeiras. É por isso que desenvolvemos este projeto para explorar as possibilidades do aprendizado de máquina na detecção de fraudes em cartões de crédito.
 
@@ -18,4 +16,4 @@ Portanto este projeto é uma oportunidade incrível para aprender sobre aprendiz
 
 
 
-Clique [aqui](https://github.com/joaomarcelofc/Machine_Learning_Fraude_Cartao_Credito/blob/main/Projeto_Deteccao_Fraudes_Cartao_de_Credito_JM.ipynb) para ter acesso e bons estudos!
+Clique [aqui](https://github.com/joaomarcelofc/Machine_Learning_Fraude_Cartao_Credito/blob/main/Projeto_Deteccao_Fraudes_Cartao_de_Credito_JM.ipynb) para ter acesso ao projeto.
